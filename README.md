@@ -1,4 +1,4 @@
-# VisionOS_By_Examples
+# VisionOS_By_Example
 
 🥽 Code examples for Vision OS 2.0  
 
