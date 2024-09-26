@@ -1,6 +1,6 @@
 # VisionOS_By_Example
 
-🥽 Code examples for Vision OS 2.0  
+A collection of examples, projects and resources for VisionOS.  
 
 Note: The projects require Xcode 16 
 
