@@ -1,6 +1,6 @@
 # VisionOS_By_Example
 
-A collection of examples, projects and resources for VisionOS.  
+This repository features a collection of examples I've made, alongside valuable resources from others to facilitate learning VisionOS.
 
 Note: The projects require Xcode 16 
 
