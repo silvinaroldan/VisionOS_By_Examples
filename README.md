@@ -1,6 +1,6 @@
 # VisionOS_By_Example
 
-This repository features a collection of examples I've made, alongside valuable resources from others to facilitate learning VisionOS.
+This repository features a collection of VisionOS samples I've made, alongside valuable resources from others to facilitate learning SwiftUI for Vision Pro.
 
 Note: The projects require Xcode 16 
 
