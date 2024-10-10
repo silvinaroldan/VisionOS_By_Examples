@@ -27,3 +27,7 @@ This repository features a collection of visionOS samples I've made, alongside v
 ## Other Useful Repositories and Articles
 - [Particle Effects](https://getstream.io/blog/visionos-particle-effects/)
 
+## Resources
+- [Free 360 images for your projects](https://www.freepik.com/search?format=search&last_filter=query&last_value=360+panorama+images&query=360+panorama+images)
+
+
