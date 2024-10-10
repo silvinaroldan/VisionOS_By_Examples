@@ -8,6 +8,7 @@ This repository features a collection of visionOS samples I've made, alongside v
 ## Table of Contents
 - [Samples](#samples)
 - [References](#references)
+- [Tutorials](#tutorials)
 - [Other Useful Repositories and Articles](#other-useful-repositories-and-articles)
 - [Resources](#resources)
 
@@ -27,6 +28,9 @@ This repository features a collection of visionOS samples I've made, alongside v
 
 ## Other Useful Repositories and Articles
 - [Particle Effects](https://getstream.io/blog/visionos-particle-effects/)
+
+## Tutorials
+- [Introduction to 3D Modeling - Coursera](https://www.coursera.org/learn/introduction-to-3d-modeling/)
 
 ## Resources
 - [Free 360 images for your projects](https://www.freepik.com/search?format=search&last_filter=query&last_value=360+panorama+images&query=360+panorama+images)
