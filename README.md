@@ -30,5 +30,5 @@ This repository features a collection of visionOS samples I've made, alongside v
 
 ## Resources
 - [Free 360 images for your projects](https://www.freepik.com/search?format=search&last_filter=query&last_value=360+panorama+images&query=360+panorama+images)
-
+- [Introduction to 3D Modeling - Coursera](https://www.coursera.org/learn/introduction-to-3d-modeling/)
 
