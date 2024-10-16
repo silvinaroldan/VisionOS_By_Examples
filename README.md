@@ -30,6 +30,7 @@ This repository features a collection of visionOS samples I've made, alongside v
 - [Particle Effects](https://getstream.io/blog/visionos-particle-effects/)
 
 ## Tutorials
+- [Apple - visionOS Pathway](https://developer.apple.com/visionos/pathway/)
 - [Introduction to 3D Modeling - Coursera](https://www.coursera.org/learn/introduction-to-3d-modeling/)
 
 ## Resources
