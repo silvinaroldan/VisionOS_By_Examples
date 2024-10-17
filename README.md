@@ -32,6 +32,7 @@ This repository features a collection of visionOS samples I've made, alongside v
 ## Tutorials
 - [visionOS Pathway from Apple](https://developer.apple.com/visionos/pathway/)
 - [Introduction to 3D Modeling - Coursera](https://www.coursera.org/learn/introduction-to-3d-modeling/)
+- [How to add collision components to an entity to animate it if we perform a gesture](https://developer.apple.com/videos/play/wwdc2023/10203)
 
 ## Resources
 - [Free 360 images for your projects](https://www.freepik.com/search?format=search&last_filter=query&last_value=360+panorama+images&query=360+panorama+images)
