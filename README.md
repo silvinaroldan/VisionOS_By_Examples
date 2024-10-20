@@ -1,5 +1,5 @@
 
-# visionOS By Example
+# visionOS Resources
 
 This repository features a collection of visionOS samples I've made, alongside valuable resources from others to facilitate learning SwiftUI for Vision Pro.
 
@@ -10,8 +10,8 @@ This repository features a collection of visionOS samples I've made, alongside v
 - [References](#references)
 - [visionOS YouTube Channels](#visionOSYouTubeChannels)
 - [Tutorials](#tutorials)
-- [Other Useful Repositories and Articles](#other-useful-repositories-and-articles)
-- [Resources](#resources)
+- [Other Useful Repositories and Articles](#visionos-youtube-channels)
+- [Assets and images](#assets-and-images)
 
 ## Samples
 
@@ -39,7 +39,7 @@ This repository features a collection of visionOS samples I've made, alongside v
 - [How to add collision components to an entity to animate it if we perform a gesture](https://developer.apple.com/videos/play/wwdc2023/10203)
 - [visionOS Labs](https://vrhermit.com/canvatorium-visio/)
 
-## Resources
+## Assets and images
 - [Free 360 images for your projects](https://www.freepik.com/search?format=search&last_filter=query&last_value=360+panorama+images&query=360+panorama+images)
 
 
