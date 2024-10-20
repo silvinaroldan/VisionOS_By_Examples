@@ -8,6 +8,7 @@ This repository features a collection of visionOS samples I've made, alongside v
 ## Table of Contents
 - [Samples](#samples)
 - [References](#references)
+- [visionOS YouTube Channels](#visionOSYouTubeChannels)
 - [Tutorials](#tutorials)
 - [Other Useful Repositories and Articles](#other-useful-repositories-and-articles)
 - [Resources](#resources)
@@ -28,6 +29,9 @@ This repository features a collection of visionOS samples I've made, alongside v
 
 ## Other Useful Repositories and Articles
 - [Particle Effects](https://getstream.io/blog/visionos-particle-effects/)
+
+## visionOS YouTube Channels
+- [Dwight the Maker - visionOs Development](https://www.youtube.com/watch?v=iPgeybXjh7I&list=PLZzMtchyTKdOl0YGpeUmFiRSA6JNOO92Z)
 
 ## Tutorials
 - [visionOS Pathway from Apple](https://developer.apple.com/visionos/pathway/)
